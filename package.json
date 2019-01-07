@@ -110,7 +110,7 @@
     "minimatch": "^3.0.4",
     "rxjs": "^6.3.2",
     "vscode-uri": "^1.0.6",
-    "xregexp": "^4.2.0"
+    "xregexp": "4.2.0"
   },
   "engines": {
     "node": ">=8.0.0"
